@@ -1,6 +1,8 @@
 # Model untuk memprediksi nutrisi pada tanaman
 
-Project pembuatan model untuk memprediksi nilai nutrisi pada tanaman. Notebook project dapat dilihat pada file <b>aria_prediction.ipynb</b>, dan untuk percobaan dengan data inference dapat dilihat pada file <b>aria_inference_set.ipynb</b>.
+Perusahaan Aria membutuhkan suatu model untuk memprediksi nilai nutrisi pada suatu tanaman. Project ini bertujuan untuk membuat model yang dapat memprediksi nilai nutrisi pada tanaman dan faktor apa saja yang mempengaruhi nutrisi pada tanaman. Adapun langkah-langkah yang dilakukan dalam project adalah analisa dataset yang digunakan, data preprocessing, modeling menggunakan algoritma Machine Learning, hingga evaluasi dari model yang telah dibuat. 
+
+Notebook project dapat dilihat pada file <b>aria_prediction.ipynb</b>, dan untuk percobaan dengan data inference dapat dilihat pada file <b>inference_test.ipynb</b>.
 
 Adapun versi python dan library yang digunakan dalam mengerjakan project ini adalah:
 <ul>
